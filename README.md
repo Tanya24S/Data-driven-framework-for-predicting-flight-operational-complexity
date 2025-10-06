@@ -137,7 +137,7 @@ print(flights[['flight_number', 'difficulty_score']].head())
 ## 👨‍💻 Author
 
 **Tanya Sharma**
-📧 [[your.email@example.com](tanysharma24@gmail.com)]
+📧 [[tanysharma24@gmail.com](tanysharma24@gmail.com)]
 📍 *Project Duration: October 2024 – 2 Weeks*
 
 ---
